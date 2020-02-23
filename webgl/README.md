@@ -4,6 +4,8 @@ HARSHITKUMAR PRAKASHBHAI PATEL
 UNITY ID: hpatel24
 STUDENT ID: 200314248
 
+Assignment Tasks
+
 ASSIGNMENT TASKS:
   Part 1: attempt improvement of vertex and index arrays -> Complete
   Part 2: render input triangles correctly -> Complete
