@@ -1,4 +1,4 @@
-Texturing and Transparency
+** Texturing and Transparency **
 
 Harshit Patel(@hpatel24)
 
