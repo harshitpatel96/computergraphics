@@ -20,4 +20,4 @@ EXTRA CREDIT TASK:
 
 •	Render Ellipsoids : Partially complete (does not show colors)
 
-o	You can select each ellipsoid by pressing up and down arrow keys
+•	You can select each ellipsoid by pressing up and down arrow keys
