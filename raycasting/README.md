@@ -3,7 +3,9 @@
 ### by Harshit Patel (@hpatel24)
 
 Tasks:
+
 	1. Raycast the boxes
+	
 	2. Bling-Phong Illumination
 
 How to switch between Ray Casting and Bling Phong illumination:
