@@ -1,1 +1,1 @@
-# 3dberzerk
+# Computer Graphics
