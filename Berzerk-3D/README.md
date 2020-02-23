@@ -1,17 +1,7 @@
-PROG4: TEXTURING AND TRANSPARENCY
-HARSHITKUMAR PRAKASHBHAI PATEL
-UNITY ID: hpatel24
-STUDENT ID: 200314248
+# Berzerk - 3D
 
-ASSIGNMENT TASKS:
-Part 1: display the playing field; Complete
-Part 2: display and animate player; Complete
-Part 3: display and animate robots; Compete
-Part 4: add shooting interactions; Complete
+### by Harshit Patel (@hpatel24)
 
-Submission contains one folder
-Folder 1: CSC561_hpatel24_prog5_1: This file contains program 3 all parts.
+Berzerk is a classic arcade game where a players goal is to kill enemy robots and stay alive. Bots can shoot player and player can also shoot bots. Apart from that, it the player hits any wall then they die. Bullets can be shot in eight direction that is vertical horizontal and diagonal.
 
-EXTRA CREDIT TASKS:
-
--	Over the Shoulder View; Complete
+This is a 3D version of berzerk with an over the shoulder view. It has been implemented using Three.js.
