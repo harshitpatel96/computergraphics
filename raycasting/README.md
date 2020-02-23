@@ -1,10 +1,8 @@
 RAY CASTING
 
-HARSHITKUMAR PRAKASHBHAI PATEL
-UNITY ID: hpatel24
-STUDENT ID: 200314248
+Harshit Patel (@hpatel24)
 
-ASSIGNMENT TASKS:
+Folder contains
 1.	Ray Cast the boxes -> Complete
 2.	Bling-Phong Illumination -> Complete
 
