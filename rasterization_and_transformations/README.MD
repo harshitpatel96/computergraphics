@@ -1,6 +1,6 @@
-Rasterization, Projection, Transforms, and Lighting
+# Rasterization, Projection, Transforms, and Lighting
 
-Harshit Patel (@hpatel24)
+### by Harshit Patel (@hpatel24)
 
 ASSIGNMENT TASKS:
 
