@@ -1,6 +1,6 @@
-** Texturing and Transparency **
+# Texturing and Transparency
 
-Harshit Patel(@hpatel24)
+## Harshit Patel(@hpatel24)
 
 ASSIGNMENT TASKS:
 
